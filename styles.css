@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
-    background: #eef6fb;
+    background: #b4d3e6;
     color: #333;
     padding: 30px;
 }
@@ -60,7 +60,7 @@ section h2 {
 }
 
 article {
-    background: #f7fff7;
+    background: #f6f8f8;
     border: 3px solid #a0b4c9;
     padding: 15px;
     margin-bottom: 10px;
